@@ -1,0 +1,16 @@
+Integrantes do Grupo:
+- Christian Henrique Leineker | Turma: ___ | R.A.: 24175622-2
+- Arthur de Souza Alves | Turma: ___ | R.A.: 25057229-2
+
+---
+
+Repositório Local x Repositório em Nuvem
+
+O repositório local é uma cópia do projeto salva diretamente no seu computador. Com ele, o Git consegue registrar cada mudança feita nos arquivos,
+criando um histórico completo de versões. A grande vantagem é que tudo funciona sem precisar de internet. Porém, o acesso fica limitado só à sua máquina,
+o que dificulta o trabalho em equipe.
+
+O repositório em nuvem, como o GitHub, fica hospedado em um servidor online acessível de qualquer lugar. Ele permite que várias pessoas trabalhem no mesmo
+projeto ao mesmo tempo, além de servir como um backup seguro dos arquivos.
+
+Na prática, os dois se complementam: você desenvolve e salva as alterações no repositório local, e quando quiser compartilhar ou fazer backup, envia essas mudanças para o repositório em nuvem.
